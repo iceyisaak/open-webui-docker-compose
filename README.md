@@ -1,6 +1,6 @@
-# Open WebUI Docker Deployment
+# Open WebUI Docker Compose
 
-Repo: 
+Repo: https://github.com/iceyisaak/open-webui-docker-compose
 
 This repository contains a simple **Docker Compose** configuration to deploy **Open WebUI**, a user-friendly, feature-rich interface for interacting with LLMs. This specific setup is pre-configured to communicate with a local **Ollama** instance running on your host machine.
 
