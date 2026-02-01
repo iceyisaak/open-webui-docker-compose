@@ -1,7 +1,7 @@
 services:
   open-webui:
     image: ghcr.io/open-webui/open-webui:main
-    container_name: open-webui
+    container_name: open-webui-docker-compose
     ports:
       - "11430:8080"
     extra_hosts:
